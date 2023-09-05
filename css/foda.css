@@ -1,0 +1,103 @@
+selector
+{
+    property: value;
+    propertytwo: value
+}
+
+/* note */
+.special{
+    color:blue;
+    font-size: 40px;
+}
+
+
+#special{
+    color:aqua 
+ }
+
+ p {
+    color:red
+ }
+ #ali{
+    background-color:aquamarine;
+    
+    background-color:rgb(0 150 0 /50%); 
+    /* red green blue alpha channel */
+    
+    background-color: #ff0000;  
+    /* color hex code */
+    background-image: url("../images/4.jpg");
+    background-repeat:no-repeat ;
+    background-attachment:scroll ;
+    background-position: center  ;
+    background-size: contain ;
+    
+
+ }
+ #omar{
+
+    background-color: aquamarine;
+    padding: 10px 20px 15px;
+    /* this px wiht clockwise */
+    margin:10px;
+    width: 80%;
+     margin-left:auto;
+     margin-right:auto;
+
+     border-width :5px;
+     border-color :blueviolet blue yellow red;
+     border-style: dashed;
+     border-radius:10px;
+     outline: 10px solid brown;
+
+
+
+     
+
+ }
+ #moro{
+
+    background-color: aquamarine;
+    padding: 10px 20px 15px;
+    /* this px wiht clockwise */
+    margin:10px;
+    width: 80%;
+     margin-left:auto;
+     margin-right:auto;
+
+     border-width :5px;
+     border-color :blueviolet blue yellow red;
+     border-style: dashed;
+     border-radius:10px;
+     outline: 10px solid brown;
+     
+     visibility:hidden;
+
+
+
+     
+
+ }
+ #man{
+
+    background-color: aquamarine;
+    padding: 10px 20px 15px;
+    /* this px wiht clockwise */
+    margin:10px;
+    width: 80%;
+     margin-left:auto;
+     margin-right:auto;
+
+     border-width :5px;
+     border-color :blueviolet blue yellow red;
+     border-style: dashed;
+     border-radius:10px;
+     outline: 10px solid brown;
+     display:;
+     visibility:visible;
+
+
+
+     
+
+ }
